@@ -2,12 +2,7 @@ package sort;
 
 import java.util.Stack;
 
-/**
- * Created by ozc on 2018/3/17.
- *
- * @author ozc
- * @version 1.0
- */
+
 public class QuickSort
 {
 
